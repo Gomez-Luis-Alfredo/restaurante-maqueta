@@ -12,7 +12,7 @@ export default function CardMain({nombre,categoria,tiempo, IMG,id}) {
   return (
     <div key={id} className="relative grid grid-cols-1 content-between bg-teal-50  rounded-lg  overflow-hidden  flex-grow-1 h-full w-full shadow-md shadow-slate-400">
         <div className="grid col-span-1">
-            <img src={IMG} alt="" className="rounde-md object-cover w-full h-[250px] hover:scale-105 duration-300"/>
+            <img src={IMG} alt="Platrillos a prepara" className="rounde-md object-cover w-full h-[250px] hover:scale-105 duration-300"/>
             <span className="p-1 bg-white absolute top-0 right-0 rounded-full m-2" onClick={handerFavorito}><FaHeart className={`${favorito ? 'text-red-500' : 'text-slate-400'} 'size-[15px]'`}/></span>
         </div>
         <div className="px-2 py-4">
