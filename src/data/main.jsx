@@ -32,7 +32,7 @@ export const main = [
         Nombre: 'Albóndigas de pollo con queso crema',
          categoría:'Carne',
          Tiempo:'30 minutos',
-         IMG:'../src/assets/img/img-recipe-5.webp'
+         IMG:'/src/assets/img/img-recipe-5.webp'
      },
      {
         id:6,
