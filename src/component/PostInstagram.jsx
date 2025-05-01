@@ -1,7 +1,7 @@
-import IMG1 from '../assets/img/post-instagram-1.png'
-import IMG2 from '../assets/img/post-instagram-2.png'
-import IMG3 from '../assets/img/post-instagram-3.png'
-import IMG4 from '../assets/img/post-instagram-4.png'
+import IMG1 from '/assets/post-instagram-1.png'
+import IMG2 from '/assets/post-instagram-2.png'
+import IMG3 from '/assets/post-instagram-3.png'
+import IMG4 from '/assets/post-instagram-4.png'
 
 export default function PostInstagram() {
   return (

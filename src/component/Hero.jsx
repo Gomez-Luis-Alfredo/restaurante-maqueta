@@ -1,7 +1,7 @@
 import React from 'react'
 import { CiStopwatch } from 'react-icons/ci'
 import { FaFire, FaPlayCircle, FaUtensils } from 'react-icons/fa'
-import IMG from '../assets/img/img-banner-hero.webp'
+import IMG from '/assets/img-banner-hero.webp'
 import { MdWatchLater } from 'react-icons/md'
 
 export default function Hero() {

@@ -1,4 +1,4 @@
-import IMG from '../assets/img/img-chef.png'
+import IMG from '/assets/img-chef.png'
 
 export default function Chef() {
   return (
